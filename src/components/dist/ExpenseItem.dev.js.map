@@ -1,0 +1,1 @@
+{"version":3,"sources":["ExpenseItem.js"],"names":["ExpenseItem","h2"],"mappings":";;AAAA,SAASA,WAAT,GAAuB;AACnB,SAAOC,EAAP;AACH","sourcesContent":["function ExpenseItem() {\r\n    return h2\r\n}"],"file":"ExpenseItem.dev.js"}
