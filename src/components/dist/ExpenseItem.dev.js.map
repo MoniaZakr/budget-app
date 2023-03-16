@@ -1,1 +1,1 @@
-{"version":3,"sources":["ExpenseItem.js"],"names":["ExpenseItem","h2"],"mappings":";;AAAA,SAASA,WAAT,GAAuB;AACnB,SAAOC,EAAP;AACH","sourcesContent":["function ExpenseItem() {\r\n    return h2\r\n}"],"file":"ExpenseItem.dev.js"}
+{"version":3,"sources":["ExpenseItem.js"],"names":["ExpenseItem","div"],"mappings":";;;;;;;AAAA,SAASA,WAAT,GAAuB;AACnB,SACIC,GADJ;AAGH;;eAEcD,W","sourcesContent":["function ExpenseItem() {\r\n    return (\r\n        div\r\n    )\r\n}\r\n\r\nexport default ExpenseItem"],"file":"ExpenseItem.dev.js"}
